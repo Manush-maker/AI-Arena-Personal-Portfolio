@@ -1,0 +1,7 @@
+Dhanush portfolio asset update
+
+- public/dhanush.jpg: replaced with the supplied Dhanush portrait.
+- public/hero.mp4: supplied video added.
+- Source code was not changed.
+
+Note: The current source code displays public/dhanush.jpg in the hero section. The video is included in public/hero.mp4 but will require a source-code change to be displayed automatically.
